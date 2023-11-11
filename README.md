@@ -11,7 +11,7 @@
 - [Creating An Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳🏿 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
